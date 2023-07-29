@@ -16,7 +16,8 @@ f) Phone with Pushbullet app installed
 # Raspberry Pi 3 Model B+
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/c3154c97-8704-48d3-aa26-86786754696e)
 # Raspberry Pi OS/Raspbian
-![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/35d36c8b-eb56-4ca9-b73f-f3d69a38fe11)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/986f4d04-bfa4-45b4-801e-022a6b8121ba)
+
 
 # LDR Sensor
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/a365ecea-1d18-4135-9b9d-1c78ebc248de)
