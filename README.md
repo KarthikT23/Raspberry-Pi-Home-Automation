@@ -33,6 +33,11 @@ How to configure Pushbullet with Raspberry Pi: https://iotdesignpro.com/projects
 # Flowchart
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/550aca22-9329-4f48-8ad1-45780d6a715e)
 # Circuit Diagram
+Connect the Vcc pins of LDR and IR sensors to Pin 2(3.3V) of the Raspberry Pi 3B+. Connect the GND pins of LDR and IR sensors to Pin 6(GND) of the Raspberry Pi 3B+. 
+
+Connect the OUT pin of the 1st IR to pin 11 and OUT pin of 2nd IR to pin 13 of the Pi. Connect the LED to pin 3 of the Pi and the D0 pin of LDR to pin 40 of the Pi.
+
+A0 pin of LDR remains empty.
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/9d090025-c399-4903-8a78-209063c95dee)
 # Setup and Results
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/af0d8e25-6424-42eb-a645-8d4b5a30a1e6)
