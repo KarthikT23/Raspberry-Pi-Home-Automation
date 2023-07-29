@@ -26,6 +26,8 @@ f) Phone with Pushbullet app installed
 # Pushbullet Application
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/ec743223-4e68-4348-9ac9-f02868ff724a)
 Link: https://www.pushbullet.com/
+
+How to configure Pushbullet with Raspberry Pi: https://iotdesignpro.com/projects/home-security-system-using-raspberry-pi-and-pir-sensor-with-push-notification-alert
 # Block Diagram
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Home-Automation/assets/119528503/c2da1d4a-6faf-4b18-88ab-7a852caac5d5)
 # Flowchart
